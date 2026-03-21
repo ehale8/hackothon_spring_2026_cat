@@ -6,22 +6,13 @@ using UnityEngine.SceneManagement;
 public class RoomChange : MonoBehaviour
 {
 
-    public int roomToLoad;
+    public string roomToLoad;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        SceneManager.LoadScene(roomToLoad);
+        if(collision.gameObject.tag == "player")
+        {
+            SceneManager.LoadScene(roomToLoad);
+        }
     }
 }
