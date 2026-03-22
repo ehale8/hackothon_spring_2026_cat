@@ -839,7 +839,8 @@ MonoBehaviour:
   playerInput: {fileID: 1526672786}
   speed: 2
   moveInput: {x: 0, y: 0}
-  animator: {fileID: 0}
+  animator: {fileID: 753721629}
+  sprite: {fileID: 0}
 --- !u!114 &1526672786
 MonoBehaviour:
   m_ObjectHideFlags: 0
