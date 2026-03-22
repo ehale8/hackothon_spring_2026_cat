@@ -10,7 +10,7 @@ public class RoomChange : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "player")
+        if(collision.gameObject.tag == "Player")
         {
             SceneManager.LoadScene(roomToLoad);
         }
