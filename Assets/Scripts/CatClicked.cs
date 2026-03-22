@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 public class CatClicked : MonoBehaviour
 {
 
+
     [SerializeField] private string SceneName = "WinScene";
 
     private void OnMouseDown()
