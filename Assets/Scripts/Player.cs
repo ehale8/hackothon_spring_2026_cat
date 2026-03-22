@@ -20,6 +20,10 @@ public class Player : MonoBehaviour
         if (targetSpeed != 0)
         {
             animator.SetBool("OntheMove", true);
+           // if ()
+          //  {
+              //  animator.SetBool("Facing_Left", true)
+            //} else { animator.SetBool("Facing_Left", false)};
         } else { animator.SetBool("OntheMove", false); }
      
     }
