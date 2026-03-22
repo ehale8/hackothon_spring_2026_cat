@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerSpawn : MonoBehaviour
 {
-    public Transform[] spawnPoints; // Drag the 2 spawn points here in the Inspector
+    public Transform[] spawnPoints; 
     public GameObject playerPrefab;
 
     void Start()
