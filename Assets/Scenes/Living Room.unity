@@ -427,7 +427,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1098117263258996875, guid: 90c9ca9995e7a004186bfe4d0dc8bbf5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -449,6 +449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 753721628}
   - component: {fileID: 753721627}
+  - component: {fileID: 753721629}
   m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
@@ -505,7 +506,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -3508729166021472961, guid: e888036fdb367334888e86f5c0cd0bec, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -524,12 +525,13 @@ Transform:
   m_GameObject: {fileID: 753721626}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.45, y: -2.91, z: 0}
+  m_LocalPosition: {x: -4.85, y: -1.83, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1526672782}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &763156316
 GameObject:
   m_ObjectHideFlags: 0
@@ -569,16 +571,26 @@ RectTransform:
   m_SizeDelta: {x: 16.25831, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &763156318
+=======
+--- !u!95 &753721629
+>>>>>>> 90b6ea62fbfcffe0fd2e04e03bd7680978f25829
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 763156316}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: d2bd1ec775181d546861b258f15c05ec, type: 2}
+=======
+  m_GameObject: {fileID: 753721626}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f0b36a22c51e9754b9f4a7b6b49b99e8, type: 2}
+>>>>>>> 90b6ea62fbfcffe0fd2e04e03bd7680978f25829
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -590,6 +602,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< HEAD
 --- !u!114 &763156319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -707,6 +720,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 90b6ea62fbfcffe0fd2e04e03bd7680978f25829
 --- !u!1 &1445938189
 GameObject:
   m_ObjectHideFlags: 0
