@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: e888036fdb367334888e86f5c0cd0bec
+guid: bca0b0bd7c860ec4180507b945beeb65
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3508729166021472961
-    second: Lilibet_Walk_0
+      213: 7453415797103778991
+    second: Lilibet_Walk_HighRes_0
   - first:
-      213: -2275327645372510181
-    second: Lilibet_Walk_1
+      213: 2175332978340410381
+    second: Lilibet_Walk_HighRes_1
   - first:
-      213: -467718633196657695
-    second: Lilibet_Walk_2
+      213: -3329357726845864357
+    second: Lilibet_Walk_HighRes_2
   - first:
-      213: 7640901214387156581
-    second: Lilibet_Walk_3
+      213: -4355193984542071520
+    second: Lilibet_Walk_HighRes_3
   - first:
-      213: -942921989562656209
-    second: Lilibet_Walk_4
+      213: 130130310904181781
+    second: Lilibet_Walk_HighRes_4
   - first:
-      213: 6450979951330069555
-    second: Lilibet_Walk_5
+      213: -5588169269406327747
+    second: Lilibet_Walk_HighRes_5
   - first:
-      213: -5335621682341916407
-    second: Lilibet_Walk_6
+      213: -4663713994656743490
+    second: Lilibet_Walk_HighRes_6
   - first:
-      213: -3821091916653514883
-    second: Lilibet_Walk_7
+      213: -7068072937381774907
+    second: Lilibet_Walk_HighRes_7
   - first:
-      213: 1860280502506932724
-    second: Lilibet_Walk_8
+      213: -2538695584691375393
+    second: Lilibet_Walk_HighRes_8
   - first:
-      213: 5402138985067618928
-    second: Lilibet_Walk_9
+      213: -5965662259642606832
+    second: Lilibet_Walk_HighRes_9
   - first:
-      213: 7745637309683469936
-    second: Lilibet_Walk_10
+      213: -8056169780803037307
+    second: Lilibet_Walk_HighRes_10
   - first:
-      213: 1187954335160701087
-    second: Lilibet_Walk_11
+      213: 8218030065059172283
+    second: Lilibet_Walk_HighRes_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 110
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,265 +146,265 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lilibet_Walk_0
+      name: Lilibet_Walk_HighRes_0
       rect:
         serializedVersion: 2
-        x: 186
+        x: 440
         y: 0
-        width: 173
-        height: 526
+        width: 394
+        height: 1219
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3dcc3ed96d7e4fc0800000000000000
-      internalID: -3508729166021472961
+      spriteID: facd7a57d2adf6760800000000000000
+      internalID: 7453415797103778991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_1
+      name: Lilibet_Walk_HighRes_1
       rect:
         serializedVersion: 2
-        x: 787
+        x: 1840
         y: 0
-        width: 173
-        height: 526
+        width: 394
+        height: 1219
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1012fdcf896c60e0800000000000000
-      internalID: -2275327645372510181
+      spriteID: d043c2281d5503e10800000000000000
+      internalID: 2175332978340410381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_2
+      name: Lilibet_Walk_HighRes_2
       rect:
         serializedVersion: 2
-        x: 1382
+        x: 3233
         y: 0
-        width: 161
-        height: 530
+        width: 359
+        height: 1233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e36b7591645289f0800000000000000
-      internalID: -467718633196657695
+      spriteID: b56762189cebbc1d0800000000000000
+      internalID: -3329357726845864357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_3
+      name: Lilibet_Walk_HighRes_3
       rect:
         serializedVersion: 2
-        x: 1983
+        x: 4633
         y: 0
-        width: 158
-        height: 530
+        width: 359
+        height: 1233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 566b567db2fe90a60800000000000000
-      internalID: 7640901214387156581
+      spriteID: 025a377552e3f83c0800000000000000
+      internalID: -4355193984542071520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_4
+      name: Lilibet_Walk_HighRes_4
       rect:
         serializedVersion: 2
-        x: 2584
+        x: 6033
         y: 0
-        width: 186
-        height: 530
+        width: 422
+        height: 1233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2a963142711ae2f0800000000000000
-      internalID: -942921989562656209
+      spriteID: 51474fb04d05ec100800000000000000
+      internalID: 130130310904181781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_5
+      name: Lilibet_Walk_HighRes_5
       rect:
         serializedVersion: 2
-        x: 3182
+        x: 7433
         y: 0
-        width: 161
-        height: 530
+        width: 359
+        height: 1233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33c0234461c768950800000000000000
-      internalID: 6450979951330069555
+      spriteID: d3c184828a5d272b0800000000000000
+      internalID: -5588169269406327747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_6
+      name: Lilibet_Walk_HighRes_6
       rect:
         serializedVersion: 2
-        x: 3783
+        x: 8833
         y: 0
-        width: 176
-        height: 530
+        width: 394
+        height: 1233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9015328695014f5b0800000000000000
-      internalID: -5335621682341916407
+      spriteID: ebf777ec4d8274fb0800000000000000
+      internalID: -4663713994656743490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_7
+      name: Lilibet_Walk_HighRes_7
       rect:
         serializedVersion: 2
-        x: 4409
+        x: 10289
         y: 0
-        width: 158
-        height: 523
+        width: 359
+        height: 1212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7f20c59521c8fac0800000000000000
-      internalID: -3821091916653514883
+      spriteID: 5c9bec89c1929ed90800000000000000
+      internalID: -7068072937381774907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_8
+      name: Lilibet_Walk_HighRes_8
       rect:
         serializedVersion: 2
-        x: 5006
+        x: 11689
         y: 0
-        width: 158
-        height: 523
+        width: 359
+        height: 1212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f9c286c24b01d910800000000000000
-      internalID: 1860280502506932724
+      spriteID: fd23e99f0ddb4ccd0800000000000000
+      internalID: -2538695584691375393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_9
+      name: Lilibet_Walk_HighRes_9
       rect:
         serializedVersion: 2
-        x: 5583
+        x: 13033
         y: 0
-        width: 183
-        height: 523
+        width: 415
+        height: 1212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 072ae3009c048fa40800000000000000
-      internalID: 5402138985067618928
+      spriteID: 01b5c0448c5b53da0800000000000000
+      internalID: -5965662259642606832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_10
+      name: Lilibet_Walk_HighRes_10
       rect:
         serializedVersion: 2
-        x: 6209
+        x: 14489
         y: 0
-        width: 158
-        height: 523
+        width: 359
+        height: 1212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07e02b258180e7b60800000000000000
-      internalID: 7745637309683469936
+      spriteID: 5879ffc844cb23090800000000000000
+      internalID: -8056169780803037307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lilibet_Walk_11
+      name: Lilibet_Walk_HighRes_11
       rect:
         serializedVersion: 2
-        x: 6792
+        x: 15854
         y: 0
-        width: 172
-        height: 523
+        width: 394
+        height: 1212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9093ac7c267c7010800000000000000
-      internalID: 1187954335160701087
+      spriteID: bbf055d9dce4c0270800000000000000
+      internalID: 8218030065059172283
       vertices: []
       indices: 
       edges: []
@@ -413,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 457a04b986b40404190b5d6109269c50
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -421,22 +421,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Lilibet_Walk_0: -3508729166021472961
-      Lilibet_Walk_1: -2275327645372510181
-      Lilibet_Walk_10: 7745637309683469936
-      Lilibet_Walk_11: 1187954335160701087
-      Lilibet_Walk_2: -467718633196657695
-      Lilibet_Walk_3: 7640901214387156581
-      Lilibet_Walk_4: -942921989562656209
-      Lilibet_Walk_5: 6450979951330069555
-      Lilibet_Walk_6: -5335621682341916407
-      Lilibet_Walk_7: -3821091916653514883
-      Lilibet_Walk_8: 1860280502506932724
-      Lilibet_Walk_9: 5402138985067618928
+      Lilibet_Walk_HighRes_0: 7453415797103778991
+      Lilibet_Walk_HighRes_1: 2175332978340410381
+      Lilibet_Walk_HighRes_10: -8056169780803037307
+      Lilibet_Walk_HighRes_11: 8218030065059172283
+      Lilibet_Walk_HighRes_2: -3329357726845864357
+      Lilibet_Walk_HighRes_3: -4355193984542071520
+      Lilibet_Walk_HighRes_4: 130130310904181781
+      Lilibet_Walk_HighRes_5: -5588169269406327747
+      Lilibet_Walk_HighRes_6: -4663713994656743490
+      Lilibet_Walk_HighRes_7: -7068072937381774907
+      Lilibet_Walk_HighRes_8: -2538695584691375393
+      Lilibet_Walk_HighRes_9: -5965662259642606832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
