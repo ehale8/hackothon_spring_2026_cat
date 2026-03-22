@@ -10,13 +10,18 @@ public class Player : MonoBehaviour
     public Vector2 moveInput;
 
     public Animator animator; //Added later.
+    public SpriteRenderer sprite;
 
 
     void FixedUpdate()
     {
         float targetSpeed = moveInput.x * speed;
         rb.linearVelocity = new Vector2 (targetSpeed, rb.linearVelocity.y);
-        //animator.SetBool("OntheMove", ); //Added Later
+        if (targetSpeed != 0)
+        {
+            animator.SetBool("OntheMove", true);
+        } else { animator.SetBool("OntheMove", false); }
+     
     }
 
 
