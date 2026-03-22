@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -149,12 +149,12 @@ TextureImporter:
       name: Lilibet_Walk_0
       rect:
         serializedVersion: 2
-        x: 188
+        x: 186
         y: 0
-        width: 170
-        height: 523
+        width: 173
+        height: 526
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,12 +171,12 @@ TextureImporter:
       name: Lilibet_Walk_1
       rect:
         serializedVersion: 2
-        x: 788
+        x: 787
         y: 0
-        width: 170
-        height: 523
+        width: 173
+        height: 526
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -193,12 +193,12 @@ TextureImporter:
       name: Lilibet_Walk_2
       rect:
         serializedVersion: 2
-        x: 1385
+        x: 1382
         y: 0
-        width: 155
-        height: 529
+        width: 161
+        height: 530
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -215,12 +215,12 @@ TextureImporter:
       name: Lilibet_Walk_3
       rect:
         serializedVersion: 2
-        x: 1985
+        x: 1983
         y: 0
-        width: 155
-        height: 529
+        width: 158
+        height: 530
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -237,12 +237,12 @@ TextureImporter:
       name: Lilibet_Walk_4
       rect:
         serializedVersion: 2
-        x: 2585
+        x: 2584
         y: 0
-        width: 182
-        height: 529
+        width: 186
+        height: 530
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,12 +259,12 @@ TextureImporter:
       name: Lilibet_Walk_5
       rect:
         serializedVersion: 2
-        x: 3185
+        x: 3182
         y: 0
-        width: 155
-        height: 529
+        width: 161
+        height: 530
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -281,12 +281,12 @@ TextureImporter:
       name: Lilibet_Walk_6
       rect:
         serializedVersion: 2
-        x: 3785
+        x: 3783
         y: 0
-        width: 170
-        height: 529
+        width: 176
+        height: 530
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,10 +305,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4409
         y: 0
-        width: 155
-        height: 520
+        width: 158
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -325,12 +325,12 @@ TextureImporter:
       name: Lilibet_Walk_8
       rect:
         serializedVersion: 2
-        x: 5009
+        x: 5006
         y: 0
-        width: 155
-        height: 520
+        width: 158
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -347,12 +347,12 @@ TextureImporter:
       name: Lilibet_Walk_9
       rect:
         serializedVersion: 2
-        x: 5585
+        x: 5583
         y: 0
-        width: 179
-        height: 520
+        width: 183
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,10 +371,10 @@ TextureImporter:
         serializedVersion: 2
         x: 6209
         y: 0
-        width: 155
-        height: 520
+        width: 158
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -391,12 +391,12 @@ TextureImporter:
       name: Lilibet_Walk_11
       rect:
         serializedVersion: 2
-        x: 6794
+        x: 6792
         y: 0
-        width: 170
-        height: 520
+        width: 172
+        height: 523
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -413,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 457a04b986b40404190b5d6109269c50
     internalID: 0
     vertices: []
     indices: 
@@ -421,7 +421,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Lilibet_Walk_0: -3508729166021472961
       Lilibet_Walk_1: -2275327645372510181
